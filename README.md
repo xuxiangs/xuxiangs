@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xuxiangs
+- 👋 Hi, I’m XuXiang
 - 📫 How to reach me xxuxiang023@gamil.com
 <!---
 xuxiangs/xuxiangs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
